@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>MiJenner</RootNamespace>
+    <PackageId>MiJenner.JsonSections</PackageId>
+    <Title>Json Sections Handler</Title>
+    <Authors>Michael Jenner</Authors>
+    <Company>Jenner IT</Company>
+    <AssemblyName>MiJenner.JsonSections</AssemblyName>
+    <Version>1.0.0</Version>
+    <Product>MiJenner.JsonSections</Product>
+    <Description>Json library for creating appsettings.json and similar. </Description>
+    <Copyright>(c) 2024 Michael Jenner</Copyright>
+  </PropertyGroup>
+
+</Project>
