@@ -14,6 +14,23 @@
     <Product>MiJenner.JsonSections</Product>
     <Description>Json library for creating appsettings.json and similar. </Description>
     <Copyright>(c) 2024 Michael Jenner</Copyright>
+    <PackageProjectUrl>https://github.com/mijenner/MiJenner.JsonSections</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/mijenner/MiJenner.JsonSections</RepositoryUrl>
+    <PackageTags>.NET;JSON;appsettings</PackageTags>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
